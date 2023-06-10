@@ -1,0 +1,43 @@
+{
+  "name": "nodejs-extensions",
+  "displayName": "Node.js extensions",
+  "version": "1.0.0",
+  "description": "A pack of useful extensions for Node.js development",
+  "publisher": "ajhawkings",
+  "bugs": {
+    "url": "https://github.com/ajhawkings/nodejs-extensions/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "prettier-plugin-sort-json": "1.0.0"
+  },
+  "extensionPack": [
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "jasonnutter.search-node-modules",
+    "pflannery.vscode-versionlens",
+    "wix.vscode-import-cost",
+    "xabikos.javascriptsnippets"
+  ],
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "galleryBanner": {
+    "color": "#333333",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/ajhawkings/nodejs-extensions",
+  "icon": "nodejs-dark-icon.png",
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript"
+  ],
+  "repository": {
+    "url": "https://github.com/ajhawkings/nodejs-extensions"
+  }
+}

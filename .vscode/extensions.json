@@ -1,0 +1,8 @@
+// Not the extension pack itself - extensions recommended for development
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "ajhawkings",
+    "color",
+    "dbaeumer",
+    "Intellicode",
+    "jasonnutter",
+    "javascriptsnippets",
+    "packagejson",
+    "pflannery",
+    "versionlens",
+    "xabikos"
+  ],
+  "editor.formatOnSave": true,
+  "git.enableCommitSigning": true
+}
