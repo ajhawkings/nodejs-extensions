@@ -2,7 +2,7 @@
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ajhawkings.nodejs-extensions)
 ![GitHub issues](https://img.shields.io/github/issues/ajhawkings/nodejs-extensions)
-![GitHub last commit](https://img.shields.io/github/last-commit/ajhawkings%60/nodejs-extensions?label=last%20updated)
+![GitHub last commit](https://img.shields.io/github/last-commit/ajhawkings/nodejs-extensions?label=last%20updated)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
